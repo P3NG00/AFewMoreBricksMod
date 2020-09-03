@@ -71,7 +71,3 @@ publishing {
 		// mavenLocal()
 	}
 }
-
-minecraft {
-	accessWidener = file("src/main/resources/modid.accesswidener")
-}
